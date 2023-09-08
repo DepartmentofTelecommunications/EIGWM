@@ -20,7 +20,7 @@ per one estimate 90 lakh persons are employed in this sector.
 2. Since Private Security Agency Licensing Portal has been launched, there will be no need 
 for manual police verification of details of its directors/partners/proprietor at the time of 
 applying for grant of license for private security agency and verification of antecedents will be 
-facilitated through electronic databases of crime & criminal like CCTNS, ICJS and other 
+facilitated the EIGWM
 similar application. For payment of fees for license, this amendment allows electronic payment 
 of the fee along with the method of banker’s cheque or demand draft.
 3. The Government of India has made National Skill Qualification Framework (NSQF) 
